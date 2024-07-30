@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/your-repo/static/css/main.bea77f7f.css",
-    "main.js": "/your-repo/static/js/main.76e80536.js",
-    "static/js/488.09c5fe62.chunk.js": "/your-repo/static/js/488.09c5fe62.chunk.js",
-    "static/media/hero-bg.jpg": "/your-repo/static/media/hero-bg.8580dc80990bef81a43d.jpg",
-    "static/media/heromainv2.png": "/your-repo/static/media/heromainv2.aa0390f3e490ac38e34c.png",
-    "static/media/furqan.png": "/your-repo/static/media/furqan.11ae0d827b11c424b8f9.png",
-    "index.html": "/your-repo/index.html",
-    "main.bea77f7f.css.map": "/your-repo/static/css/main.bea77f7f.css.map",
-    "main.76e80536.js.map": "/your-repo/static/js/main.76e80536.js.map",
-    "488.09c5fe62.chunk.js.map": "/your-repo/static/js/488.09c5fe62.chunk.js.map"
+    "main.css": "/FurqanAwsome/github-profile/static/css/main.9c119164.css",
+    "main.js": "/FurqanAwsome/github-profile/static/js/main.3ef8f2bb.js",
+    "static/js/488.09c5fe62.chunk.js": "/FurqanAwsome/github-profile/static/js/488.09c5fe62.chunk.js",
+    "static/media/hero-bg.jpg": "/FurqanAwsome/github-profile/static/media/hero-bg.8580dc80990bef81a43d.jpg",
+    "static/media/heromainv2.png": "/FurqanAwsome/github-profile/static/media/heromainv2.aa0390f3e490ac38e34c.png",
+    "static/media/furqan.png": "/FurqanAwsome/github-profile/static/media/furqan.11ae0d827b11c424b8f9.png",
+    "index.html": "/FurqanAwsome/github-profile/index.html",
+    "main.9c119164.css.map": "/FurqanAwsome/github-profile/static/css/main.9c119164.css.map",
+    "main.3ef8f2bb.js.map": "/FurqanAwsome/github-profile/static/js/main.3ef8f2bb.js.map",
+    "488.09c5fe62.chunk.js.map": "/FurqanAwsome/github-profile/static/js/488.09c5fe62.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bea77f7f.css",
-    "static/js/main.76e80536.js"
+    "static/css/main.9c119164.css",
+    "static/js/main.3ef8f2bb.js"
   ]
 }

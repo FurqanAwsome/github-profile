@@ -1,0 +1,161 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+/*
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 800
+
+.open-sans-<uniquifier> {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}*/
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+body h1, body h2, body h3, body h4, body h5, body h6{
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+body p{
+  margin-bottom: 20px;
+}
+body h1{
+  font-size: 48px;
+  line-height: 60px;
+}
+body h2{
+  font-size: 48px;
+  line-height: 52px;
+}
+body h3{
+  font-size: 34px;
+  line-height: 46px;
+}
+body h4{
+  font-size: 28px;
+  line-height: 40px;
+}
+body h5{
+  font-size: 22px;
+  line-height: 36px;
+}
+body h6{
+  font-size: 18px;
+  line-height: 30px;
+}
+header{
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  color: #fff;
+}
+header a{
+  color: #fff!important;
+}
+section {
+  text-align: center;
+}
+
+footer {
+  margin-top: 20px;
+}
+.wrapper{
+  box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 1130px;
+    padding: 0 20px;
+    width: 100%;
+}
+.row{
+  margin-left: -20px;
+  margin-right: -20px;
+}
+.row > *{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.banner-main{
+  padding-top: 200px;
+  padding-bottom: 0px;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("./Assets/Images/hero-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;
+}
+.banner-main .hero-img{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.about-section{
+  padding-top: 200px;
+  padding-bottom: 170px;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("./Assets/Images/hero-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;
+}
+.about-section .content-wrap{
+  max-width: 600px;
+  width: 100%;
+  margin:0 auto;
+}
+.about-section .image-box{
+  margin-top: 40px;
+}
+.about-section .image-box img{
+  width: 375px;
+  height: 375px;
+  object-fit: cover;
+  border-radius: 50%;
+}
